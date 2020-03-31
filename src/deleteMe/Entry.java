@@ -14,7 +14,7 @@ public class Entry {
 		t1.method2(f1);
 		System.out.println(f1.colour);
 
-	
+		System.out.println("Im sri");
 	}
 
 }
